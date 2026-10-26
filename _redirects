@@ -1,0 +1,4 @@
+/manage / 302
+/demo / 302
+/login / 302
+/auth/* / 302

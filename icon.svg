@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="DV Photo Guide">
+  <rect width="96" height="96" rx="18" fill="#F6F5EF"/>
+  <path d="M9 27V10h18M69 10h18v17M9 69v17h18M69 86h18V69" fill="none" stroke="#164B3A" stroke-width="5" stroke-linecap="square"/>
+  <path d="M21 29h17c17 0 27 8 27 19S55 67 38 67H21V29Zm12 10v18h6c9 0 14-3 14-9s-5-9-14-9h-6Z" fill="#164B3A" fill-rule="evenodd"/>
+  <path d="m54 31 14 36 16-36H73l-5 18-5-18H54Z" fill="#164B3A"/>
+  <path d="m69 70 17-38-7 35-10 14Z" fill="#A9CFBE"/>
+  <path d="M46 48h22M57 37v22" stroke="#D6A655" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="57" cy="48" r="4.5" fill="#D6A655"/>
+</svg>
